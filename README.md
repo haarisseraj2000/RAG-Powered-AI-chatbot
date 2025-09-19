@@ -36,7 +36,7 @@ In this project, a multi-source chatbot using RAG has been implemented. Users ca
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/RajdeepDas43/RAG-Based-Multi-Source-Chatbot-Using-LLM.git
+    git clone https://github.com/haarisseraj2000/RAG-Based-Multi-Source-Chatbot-Using-LLM.git
     cd RAG-Based-Multi-Source-Chatbot-Using-LLM
     ```
 
